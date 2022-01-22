@@ -10,6 +10,6 @@
 
 <h3><strong>Refatorar - Ao final do curso foi feita uma refatoração de todo o projeto</strong><h3>
 
-[![animais-fantastico.png](https://i.postimg.cc/KYVGjks4/animais-fantastico.png)](https://postimg.cc/06YRHQvq)
+![animais-fantastico](https://user-images.githubusercontent.com/93865745/150617922-4e8e0062-fab0-42aa-8a7a-777ec4649c4a.png)
 
 <h3>Segue link da pagína desenvolvida durante todo o curso <a href="https://rafaelm10.github.io/Animais-fantasticos/"><strong>Clique aqui</strong><h3>
